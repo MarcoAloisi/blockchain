@@ -1,10 +1,12 @@
 Bloque 2:
 (Hash bloque 1)
+------------------------------------
 Marco transfiere 1 moneda a Carolina
 (Sign Marco)
 (Sign Carolina)
-(Sign Administrador)
+             -----
 Jorge transfiere 3 monedas a Alberto
 (Sign Jorge)
 (Sign Alberto)
+------------------------------------
 (Sign Administrador)
