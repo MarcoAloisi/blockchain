@@ -1,0 +1,5 @@
+Bloque 1:
+(Hash bloque 0)
+Marco transfiere 8 monedas a Jorge
+(Sign Marco)
+(Sign Administrador)
