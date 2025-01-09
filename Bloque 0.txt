@@ -1,5 +1,7 @@
 Bloque 0:
 (Hash = 0000ac509h76/00)
+------------------------------------
 Se crean 10 monedas para Marco
 (Sign Administrador)
 (Sign Marco)
+------------------------------------
