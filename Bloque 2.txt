@@ -10,3 +10,4 @@ Jorge transfiere 3 monedas a Alberto
 (Sign Alberto)
 ------------------------------------
 (Sign Administrador)
+------------------------------------
