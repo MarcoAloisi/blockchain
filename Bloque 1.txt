@@ -1,8 +1,7 @@
 Bloque 1:
-(Hash bloque 0)
-------------------------------------
-Marco transfiere 8 monedas a Jorge
-(Sign Marco)
-(Sign Jorge)
-(Sign Administrador)
-------------------------------------
+    ----------------------------
+    Hash Anterior: ef68af086bbfc02010cd692df21de1a11cc824d90c781c486e75a2b9162700a9
+    Transacción: Marco envía 7 monedas a Jorge
+    Firma Marco: 304402204eaf65a4d4aae2e3d70633a3e841a5f120338e643a1c1069ccf5884e2912401b02203ebe292c5ac074ba0a0501e2b13da677913243de8b060612c750c61e2ae6145601
+    Firma Admin: 3045022100a43e22585272e371d62f573f98527c3345612bf2e0eaa7d4a48ff93d882d5e1b0220514d2ceed609ef5ff462452651ffb23a64cbe1d42020cfc48233962487d2314c01
+    
