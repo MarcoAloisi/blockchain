@@ -1,7 +1,6 @@
 Bloque 0:
-(Hash = 0000ac509h76/00)
-------------------------------------
-Se crean 10 monedas para Marco
-(Sign Administrador)
-(Sign Marco)
-------------------------------------
+    --------------------------
+    Hash Anterior: 000000000000000
+    Transacción: Se crean 10 monedas para Marco
+    Firma Admin: 3045022100d5da236161873bd15692821d52aab351e04f2ab681f4ef5455d2acad51b8476d02202597e5a6c5b8eec212d1567b6ffb373a768a7a217c872c23cdb85ef8dcbfaf0201
+    
